@@ -1,2 +1,2 @@
-# Ascension-Bird
+# Ascension Bird
 Flappy Bird, but simplified?
